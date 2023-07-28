@@ -1,0 +1,37 @@
+.container{
+    background-color: aliceblue;
+    border: 1px solid;
+    border-radius: 5px;
+    width: 100%;
+    padding: 10px;
+    
+}
+body{
+    margin: 10px 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    padding: 8px;
+}
+h1{
+    text-align: center;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="number"],
+input[type="date"],
+input[type="password"],
+input[type="Name"],
+textarea{
+    width: 100%;
+    padding: 10px;
+    
+}
+
+input[type="submit"]{
+    text-align: center;
+    width: 100%;
+    color: black;
+    font-weight: 300;
+    padding: 10px;
+}
